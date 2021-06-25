@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/TopDevOps7/TopDevOps7/blob/main/background.png)
+![](https://github.com/TopDevOps7/TopDevOps7/blob/main/background-image.webp)
 
 #### ✨ Technical Stacks ✨
 
