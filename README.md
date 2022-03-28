@@ -1,4 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Boris! Telegram? whatsapp? And number?
 
 #### ✨ Technical Stacks ✨
 * 🥇 Blockchain Development: [Solidity](https://docs.soliditylang.org/), [Rust](https://www.rust-lang.org/), [Web3.js](https://web3js.readthedocs.io/), [Terra.js](https://docs.terra.money/), [Solana](https://solana.com/), [NFT marketplace](https://opensea.io/)
