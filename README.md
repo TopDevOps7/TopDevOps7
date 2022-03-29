@@ -1,7 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <br/><br/><br/>
-Boris! If you do, create linkedin account for yel and phone. Is it possible?
+Boris! If you do, create linkedin account for yel and phone. Is it possible?<br/>
+And changed github token? coudn't access any repo with original token.
 
 <br/><br/><br/><br/><br/><br/>
 
