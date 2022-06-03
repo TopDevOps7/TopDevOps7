@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="10px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 #### ✨ Technical Stacks ✨
 * 🥇 Blockchain Development: [Solidity](https://docs.soliditylang.org/), [Rust](https://www.rust-lang.org/), [Web3.js](https://web3js.readthedocs.io/), [Terra.js](https://docs.terra.money/), [Solana](https://solana.com/), [NFT marketplace](https://opensea.io/)
